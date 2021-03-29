@@ -8,6 +8,7 @@ Python discord bot for nuke / ride
 * **Step 1** : Open folder cmd and type **pip install -r req**
 * **Step 2** : After install req open **config.json**
 * **Step 3** : And edit **config.json**
+* **Explain** : 
 {
     "TOKEN": "Bot token",
     "SECRET-WORD": "secret word for nuke, after type secret word bot start nuke",
